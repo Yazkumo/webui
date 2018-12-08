@@ -9,6 +9,9 @@ msgid ""
 "this unchecked pool will be exported and the            data will remain "
 "intact)"
 msgstr ""
+"(點選此項將導致刪除儲存池, 如果保持不點選 "
+"儲存池將會匯出且資料仍將維持原本狀態) "
+""
 
 msgid ""
 "<a href=\"https://rsync.samba.org/ftp/rsync/rsync.html\"         "
@@ -16,6 +19,9 @@ msgid ""
 "   * character is used, it must be escaped with a backslash (\\*.txt) or    "
 "     used inside single quotes('*.txt')"
 msgstr ""
+"<a href=\"https://rsync.samba.org/ftp/rsync/rsync.html\"         "
+"target=\"_blank\"> rsync(1)</a> 選項未被 GUI 介面轉換              "
+"如果有使用 * 字元, 必須使用倒斜線 (\\*.txt) 或使用單引號註記 ('*.txt') "
 
 msgid ""
 "<a "
@@ -90,28 +96,28 @@ msgid ""
 msgstr ""
 
 msgid "A scrub occurs on the selected months."
-msgstr ""
+msgstr "指定的月份已有磁區檢測作業執行"
 
 msgid "ACL Type"
-msgstr ""
+msgstr "ACL 類型"
 
 msgid "AFP3 Unix Privs"
-msgstr ""
+msgstr "AFP3 UNIX 權限"
 
 msgid "About"
-msgstr ""
+msgstr "關於"
 
 msgid "Access Key"
-msgstr ""
+msgstr "存取密鑰"
 
 msgid "Account"
-msgstr ""
+msgstr "帳號"
 
 msgid "Account Key"
-msgstr ""
+msgstr "帳號密鑰"
 
 msgid "Account Name"
-msgstr ""
+msgstr "帳號名稱"
 
 msgid ""
 "Account to be used for guest access; default is       nobody; account must "
@@ -120,13 +126,13 @@ msgid ""
 msgstr ""
 
 msgid "Acoustic Level"
-msgstr ""
+msgstr "靜音等級"
 
 msgid "Activate "
-msgstr ""
+msgstr "啟用"
 
 msgid "Activate Jail Manager"
-msgstr ""
+msgstr "啟用 Jail 管理員"
 
 msgid ""
 "Activates the process for ZFS to transparently reuse a single copy of "
@@ -136,40 +142,40 @@ msgid ""
 msgstr ""
 
 msgid "Active Directory"
-msgstr ""
+msgstr "Active Directory"
 
 msgid "Adapter Type"
-msgstr ""
+msgstr "配接卡類型"
 
 msgid "Add Additional Path"
-msgstr ""
+msgstr "新增其他路徑"
 
 msgid "Add Cache"
-msgstr ""
+msgstr "新增快取"
 
 msgid "Add Data"
-msgstr ""
+msgstr "新增資料"
 
 msgid "Add Dataset"
-msgstr ""
+msgstr "新增資料集"
 
 msgid "Add Key"
-msgstr ""
+msgstr "新增密鑰"
 
 msgid "Add Log"
-msgstr ""
+msgstr "新增日誌"
 
 msgid "Add Recovery Key"
-msgstr ""
+msgstr "新增回復密鑰"
 
 msgid "Add Spare"
-msgstr ""
+msgstr "新增備用磁碟"
 
 msgid "Add Zvol"
-msgstr ""
+msgstr "新增 Zvol"
 
 msgid "Add a name for the new snapshot"
-msgstr ""
+msgstr "為新增快照命名"
 
 msgid ""
 "Add an SSL certificate to be used for secure S3       connections. To "
